@@ -1,6 +1,6 @@
 # 🚀  Proposta  🚀
 
-A proposta principal desse repositório é praticar HTML, CSS e JS.
+A proposta principal desse repositório é praticar HTML, CSS e JS
 
 ## [](https://github.com/brunovinicius07/clone-starbucks/blob/main/README.md#--objetivo)[](https://github.com/brunovinicius07/desafio-dio-instagram#-objetvo)🎯  Objetivo
 
